@@ -1,7 +1,8 @@
 package com.example.aeswithspringsecurity.util.passwordEncoder;
 
-import com.example.aeswithspringsecurity.util.Hash;
-import com.example.aeswithspringsecurity.util.Password;
+
+import com.password4j.Hash;
+import com.password4j.Password;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Component;
 
